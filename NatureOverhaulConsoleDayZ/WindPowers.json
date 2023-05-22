@@ -1,0 +1,438 @@
+{
+	"Objects": [
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4044.337158,
+              316.92627,
+              7731.83252
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3972.987793,
+              316.755432,
+              7765.791504
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3887.83252,
+              318.718323,
+              7806.348633
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3798.52832,
+              320.41507,
+              7850.436523
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3724.41626,
+              320.23349,
+              7887.038574
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3620.678467,
+              319.494232,
+              7937.010254
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4220.543945,
+              319.343018,
+              7646.99707
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4332.769531,
+              316.284698,
+              7587.67627
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4328.365723,
+              326.775696,
+              7800.412109
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4224.851563,
+              327.479523,
+              7835.692383
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4134.433594,
+              325.562531,
+              7869.777832
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4052.594971,
+              322.756744,
+              7900.850098
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3970.51416,
+              321.790283,
+              7929.950684
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3894.635498,
+              322.71225,
+              7957.671387
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3827.723145,
+              323.749817,
+              7982.378906
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              4123.794922,
+              318.228302,
+              7693.629883
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3749.593994,
+              324.835419,
+              8029.272949
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              3672.647217,
+              321.890778,
+              8093.730957
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              5841.334473,
+              293.594849,
+              10819.293945
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              5745.549805,
+              296.611206,
+              10850.571289
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              5648.98877,
+              299.388763,
+              10885.838867
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              5543.520996,
+              301.98056,
+              10924.476563
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              5440.541504,
+              304.804413,
+              10961.991211
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              5935.560059,
+              289.643127,
+              10787.96875
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              6028.791992,
+              286.439392,
+              10754.910156
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              9548.861328,
+              264.619263,
+              11592.647461
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              9664.584961,
+              272.335114,
+              11608.164063
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              9745.326172,
+              276.324097,
+              11539.608398
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              9634.640625,
+              267.962494,
+              11426.709961
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              9787.422852,
+              269.249146,
+              11414.055664
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_WindPowerPlant_Grey",
+              "pos": [
+              9883.464844,
+              279.836823,
+              11523.317383
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          }
+	]
+}
