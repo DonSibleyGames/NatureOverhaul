@@ -1,0 +1,1418 @@
+{
+	"Objects": [
+{
+              "name": "Land_Train_742_Red",
+              "pos": [
+              6569.741699,
+              16.163839,
+              2666.906738
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_742_Blue",
+              "pos": [
+              6560.812012,
+              16.217009,
+              2657.082031
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6552.286621,
+              15.707708,
+              2647.655029
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6544.220215,
+              15.714165,
+              2638.680176
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6535.994141,
+              15.818247,
+              2629.789795
+            ],
+              "ypr": [
+              42.999992,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6527.85498,
+              15.788578,
+              2620.830566
+            ],
+              "ypr": [
+              41.999996,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_742_Blue",
+              "pos": [
+              6519.428711,
+              16.159859,
+              2611.331299
+            ],
+              "ypr": [
+              42.999992,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6510.62793,
+              15.635322,
+              2602.040039
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6502.602539,
+              15.644467,
+              2592.950195
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6494.51416,
+              15.581413,
+              2583.939941
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_742_Red",
+              "pos": [
+              6486.074219,
+              16.092876,
+              2574.4021
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\b_fagussylvatica_1f.p3d",
+              "pos": [
+              6544.229003000001,
+              13.568468000000006,
+              2659.9252930000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1f.p3d",
+              "pos": [
+              6531.581542000002,
+              10.244988000000003,
+              2669.3295899999994
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              6527.222168999998,
+              12.467341999999991,
+              2651.540528000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2d.p3d",
+              "pos": [
+              6518.323242,
+              11.646129999999985,
+              2644.246827000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2fc.p3d",
+              "pos": [
+              6540.509765999997,
+              9.926185999999984,
+              2665.212158
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              6535.3847650000025,
+              12.327993000000014,
+              2661.3857430000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+              "pos": [
+              6521.540038000003,
+              12.689256000000011,
+              2645.8732910000003
+            ],
+              "ypr": [
+              177.999969,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6567.9492180000025,
+              13.935108000000014,
+              2652.6586920000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              6543.602050999998,
+              12.75072900000001,
+              2671.7175289999996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\cutted_cut\\t_fagussylvatica_2f_cut.p3d",
+              "pos": [
+              6518.183594,
+              12.075615000000024,
+              2598.827393000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3fb_test.p3d",
+              "pos": [
+              6491.0458979999985,
+              12.002827,
+              2608.594481999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6507.954101000002,
+              13.368682000000014,
+              2621.9394530000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6499.247070000003,
+              12.638570999999988,
+              2620.403808999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              6578.326660999997,
+              13.781695999999993,
+              2701.0476080000008
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6585.815429000003,
+              13.765602000000012,
+              2702.1750490000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6591.208984000003,
+              13.876775000000013,
+              2683.4873050000006
+            ],
+              "ypr": [
+              52,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6571.003418000003,
+              13.807355999999988,
+              2681.133056999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6489.253418000003,
+              13.487809999999989,
+              2593.351806999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6524.605469000003,
+              9.69933499999999,
+              2587.388671999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              6545.986328000002,
+              13.668093999999995,
+              2661.7063000000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_1f.p3d",
+              "pos": [
+              6546.207031000001,
+              13.456296000000004,
+              2664.6994629999995
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_2s.p3d",
+              "pos": [
+              6554.5517580000005,
+              13.707454999999989,
+              2670.571288999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_2s.p3d",
+              "pos": [
+              6508.043945000001,
+              13.29078299999999,
+              2620.251952999999
+            ],
+              "ypr": [
+              176.000031,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              6526.114746,
+              12.75805499999999,
+              2649.8398430000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              6521.3149410000005,
+              12.255889000000005,
+              2648.1296380000013
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              6524.173339999999,
+              11.749556999999987,
+              2653.1074219999996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              6567.906738,
+              13.835836999999989,
+              2670.217529000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_1f.p3d",
+              "pos": [
+              6560.124024000001,
+              13.799817000000004,
+              2666.7934569999993
+            ],
+              "ypr": [
+              -124.999939,
+              4,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+              "pos": [
+              6553.099120999999,
+              13.753329999999991,
+              2663.503662000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+              "pos": [
+              6566.928223,
+              13.848446999999991,
+              2657.729248000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+              "pos": [
+              6518.085448999999,
+              13.821236999999991,
+              2599.885498000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_1s.p3d",
+              "pos": [
+              6515.528808999999,
+              13.913039999999986,
+              2596.747559
+            ],
+              "ypr": [
+              -164.999954,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_1s.p3d",
+              "pos": [
+              6503.108398999999,
+              13.837171999999986,
+              2589.175293
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_rosacanina_2s.p3d",
+              "pos": [
+              6499.175292999999,
+              13.861908999999995,
+              2584.879883
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              6492.810058,
+              13.794495000000005,
+              2577.857910000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              6498.010742,
+              13.684580000000006,
+              2574.6669920000013
+            ],
+              "ypr": [
+              160,
+              11,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_1f.p3d",
+              "pos": [
+              6494.615235000001,
+              13.754034000000004,
+              2573.0058589999994
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_1f.p3d",
+              "pos": [
+              6487.066895000001,
+              13.760645000000004,
+              2580.2177729999994
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              6496.587891000001,
+              13.745661999999994,
+              2590.5422370000006
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              6487.132812,
+              13.93848700000001,
+              2587.188477
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_2s.p3d",
+              "pos": [
+              6567.270996000001,
+              13.587167999999991,
+              2686.821044999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_rail_polett1",
+              "pos": [
+              6511.788086,
+              18.33794,
+              2608.220215
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_rail_polett1",
+              "pos": [
+              6547.496094,
+              18.511173,
+              2647.095703
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boardspack1",
+              "pos": [
+              6515.890625,
+              14.827705,
+              2632.237305
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boardspack2",
+              "pos": [
+              6517.860352,
+              14.478085,
+              2635.617676
+            ],
+              "ypr": [
+              45.999996,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_coil",
+              "pos": [
+              6521.311523,
+              14.797777,
+              2639.156738
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_barbedwire",
+              "pos": [
+              6524.371094,
+              14.586531,
+              2642.867676
+            ],
+              "ypr": [
+              108,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_barbedwire",
+              "pos": [
+              6534.531738,
+              14.567335,
+              2654.352539
+            ],
+              "ypr": [
+              -34,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_concreteblock2_damaged",
+              "pos": [
+              6523.708496,
+              15.062658,
+              2645.057373
+            ],
+              "ypr": [
+              134.999954,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_concreteblock2_damaged",
+              "pos": [
+              6527.706055,
+              14.976173,
+              2649.283447
+            ],
+              "ypr": [
+              131.000015,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_flagpole",
+              "pos": [
+              6527.657715,
+              17.24383,
+              2648.005615
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_hedgehog_concrete",
+              "pos": [
+              6520.999023,
+              15.405831,
+              2617.088623
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_advertcolumn",
+              "pos": [
+              6530.05127,
+              15.456023,
+              2649.213135
+            ],
+              "ypr": [
+              -164.999954,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              6514.523926,
+              14.213771,
+              2630.119629
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_hedgehog_concrete",
+              "pos": [
+              6540.152832,
+              14.437523,
+              2659.719971
+            ],
+              "ypr": [
+              55,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              6517.611816,
+              14.150492,
+              2632.853516
+            ],
+              "ypr": [
+              -146.993546,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_tree_pavement1",
+              "pos": [
+              6554.319336,
+              13.824425,
+              2630.46582
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_tree_pavement1",
+              "pos": [
+              6559.727051,
+              13.824425,
+              2636.202881
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              6559.671386999998,
+              14.143272000000003,
+              2636.3381339999996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              6554.607421000002,
+              14.143278000000013,
+              2630.437012000001
+            ],
+              "ypr": [
+              63,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_furniture_box_c_multi",
+              "pos": [
+              6531.37793,
+              13.808149,
+              2651.031982
+            ],
+              "ypr": [
+              -44.000443,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6528.699219,
+              15.689384,
+              2629.446533
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              6510.222168,
+              15.314795,
+              2617.056396
+            ],
+              "ypr": [
+              39.999996,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_roadblock_cncblock",
+              "pos": [
+              6534.429688,
+              14.151405,
+              2647.458496
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_roadblock_cncblock",
+              "pos": [
+              6542.140137,
+              14.155766,
+              2655.385986
+            ],
+              "ypr": [
+              55,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_roadblock_pillbox",
+              "pos": [
+              6541.419434,
+              15.951549,
+              2639.360107
+            ],
+              "ypr": [
+              135.000015,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_roadblock_cncblocks_long",
+              "pos": [
+              6540.476074,
+              14.685282,
+              2641.261475
+            ],
+              "ypr": [
+              41.000008,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_roadblock_bags_long",
+              "pos": [
+              6543.613281,
+              15.489347,
+              2639.060059
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_furniture_office_table_a",
+              "pos": [
+              6541.809082,
+              14.781587,
+              2639.862793
+            ],
+              "ypr": [
+              -48.000004,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_furniture_desk_globe",
+              "pos": [
+              6542.043457,
+              15.696679,
+              2639.361328
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_furniture_office_chair",
+              "pos": [
+              6540.65332,
+              15.248039,
+              2639.644531
+            ],
+              "ypr": [
+              -118.999992,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_furniture_student_chair",
+              "pos": [
+              6541.499023,
+              14.851978,
+              2639.095703
+            ],
+              "ypr": [
+              -146.921005,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_flagpole",
+              "pos": [
+              6540.174316,
+              17.276159,
+              2639.710938
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_furniture_flag_chernarus_pole",
+              "pos": [
+              6540.303223,
+              16.333248,
+              2641.494385
+            ],
+              "ypr": [
+              -66,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_wall_indfnc_3",
+              "pos": [
+              6525.935059,
+              14.545361,
+              2638.287354
+            ],
+              "ypr": [
+              -48.998837,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_wall_indfnc_9",
+              "pos": [
+              6530.161133,
+              14.643101,
+              2643.062012
+            ],
+              "ypr": [
+              -48.000004,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_wall_indfnc_pole",
+              "pos": [
+              6532.727051,
+              14.495274,
+              2646.068115
+            ],
+              "ypr": [
+              -48.000004,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_wall_indfnc_9",
+              "pos": [
+              6519.060547,
+              14.592056,
+              2630.565674
+            ],
+              "ypr": [
+              -48.000004,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_wall_indfnc_pole",
+              "pos": [
+              6521.748047,
+              14.50092,
+              2633.565918
+            ],
+              "ypr": [
+              -48.000004,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boardspack1",
+              "pos": [
+              6530.480957,
+              15.037014,
+              2604.02417
+            ],
+              "ypr": [
+              124.860115,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_pallets3",
+              "pos": [
+              6528.51123,
+              14.702942,
+              2597.560791
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              6529.918457,
+              14.509401,
+              2596.580566
+            ],
+              "ypr": [
+              56,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              6530.479004,
+              14.509401,
+              2595.407227
+            ],
+              "ypr": [
+              134.589325,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              6532.864746,
+              14.509401,
+              2596.081543
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_hedgehog_concrete",
+              "pos": [
+              6527.344238,
+              14.574102,
+              2598.703369
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_hedgehog_concrete",
+              "pos": [
+              6529.115723,
+              14.564982,
+              2609.644043
+            ],
+              "ypr": [
+              54,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_hedgehog_concrete",
+              "pos": [
+              6548.116699,
+              14.558773,
+              2628.932861
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_pipes",
+              "pos": [
+              6548.748535,
+              15.464554,
+              2656.251221
+            ],
+              "ypr": [
+              -42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_timbers2",
+              "pos": [
+              6523.405273,
+              15.726696,
+              2627.828613
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_timbers4",
+              "pos": [
+              6531.384766,
+              15.344151,
+              2636.645996
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          }
+	]
+}

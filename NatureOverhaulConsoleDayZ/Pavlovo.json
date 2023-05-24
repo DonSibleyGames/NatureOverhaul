@@ -1,0 +1,7004 @@
+{
+	"Objects": [
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1743.935181,
+              136.72451700000002,
+              3594.6308599999993
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_3f.p3d",
+              "pos": [
+              1750.800903,
+              137.73147500000002,
+              3632.480957
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_3fb.p3d",
+              "pos": [
+              1753.1042490000002,
+              136.928223,
+              3588.8015139999998
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_3sb.p3d",
+              "pos": [
+              1737.326049999998,
+              135.36589099999998,
+              3562.6887199999996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_3sb.p3d",
+              "pos": [
+              1693.360228999998,
+              143.515976,
+              3730.1528319999998
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2f.p3d",
+              "pos": [
+              1718.103027,
+              143.71761999999998,
+              3734.6076659999994
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              1720.925049,
+              143.718033,
+              3768.969239
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              1630.700684,
+              143.853348,
+              3854.843506
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_3f.p3d",
+              "pos": [
+              1630.55542,
+              143.72075000000004,
+              3874.5266109999993
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_salixalba_2sb.p3d",
+              "pos": [
+              1667.0853270000027,
+              144.033783,
+              3928.141356999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_malusdomestica_3s.p3d",
+              "pos": [
+              1654.447997999998,
+              144.071488,
+              3933.213134999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1641.3765879999976,
+              144.674179,
+              3973.959472
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1703.8940439999974,
+              143.945068,
+              3851.7880849999997
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2s.p3d",
+              "pos": [
+              1688.8555909999973,
+              144,
+              3802.0925299999994
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1741.393065999998,
+              142.97648600000002,
+              3806.8916019999997
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1743.4110109999974,
+              142.145141,
+              3864.525146
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2s.p3d",
+              "pos": [
+              1790.7172849999972,
+              140.605941,
+              3861.2956549999994
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_3s.p3d",
+              "pos": [
+              1808.469117,
+              139.290222,
+              3883.839599
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_3s.p3d",
+              "pos": [
+              1656.58606,
+              143.326446,
+              3750.625244
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1671.092407,
+              140.88319499999997,
+              3709.1384290000005
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1633.469238,
+              139.578645,
+              3738.2038580000008
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1622.848633,
+              143.640595,
+              3827.3110360000005
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1693.0693359999973,
+              144.00041099999999,
+              3816.827148
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1714.5150149999972,
+              143.898864,
+              3789.535888
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1663.246704,
+              143.961366,
+              3902.9416510000005
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1768.448242,
+              140.993653,
+              3878.183595000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1742.722534,
+              143.299378,
+              3744.846681000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1735.1682129999974,
+              142.829452,
+              3721.345703
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1759.391724,
+              141.605775,
+              3755.1760260000005
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1756.829468,
+              141.613206,
+              3726.157472000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1721.8804939999975,
+              139.169708,
+              3652.0336909999996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1722.0814219999975,
+              137.534836,
+              3606.34375
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1692.7818609999974,
+              139.476013,
+              3658.1391599999997
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1705.8178719999976,
+              138.380752,
+              3630.236572
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2s.p3d",
+              "pos": [
+              1711.8643799999973,
+              140.113556,
+              3664.916259999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1699.843262,
+              142.234681,
+              3702.5427250000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1709.3920899999973,
+              143.915511,
+              3751.925292
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1691.0399169999973,
+              143.990005,
+              3872.0898429999997
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1646.8524169999973,
+              143.973068,
+              3797.181396
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1648.351074,
+              144.00407499999997,
+              3831.5058600000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1745.15564,
+              142.388566,
+              3773.1750500000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1798.0059819999974,
+              140.133483,
+              3832.484375
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_3s.p3d",
+              "pos": [
+              1733.7877199999973,
+              150.443511,
+              4017.4875479999996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1700.137207,
+              148.812989,
+              4024.746095000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_juglansregia_2s.p3d",
+              "pos": [
+              1709.681396,
+              146.40829499999998,
+              3979.355470000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1771.719116000001,
+              134.234925,
+              3518.995360999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1773.7211920000009,
+              134.192475,
+              3518.014647999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1774.8081060000009,
+              134.21099900000002,
+              3520.534422999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1773.063355000001,
+              134.224396,
+              3519.683837999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1783.456055000001,
+              133.938691,
+              3513.3610839999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1785.336792000001,
+              133.841584,
+              3510.396971999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1783.953491000001,
+              133.904663,
+              3512.169921999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1782.188599000001,
+              133.870758,
+              3509.079588999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1780.273560000001,
+              133.932053,
+              3509.900878999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1795.4731450000008,
+              133.04194700000002,
+              3491.909911999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1796.269287000001,
+              133.22844,
+              3497.8049309999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1796.795532000001,
+              133.038163,
+              3492.643065999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1788.668579000001,
+              133.432846,
+              3498.922850999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1793.964478000001,
+              133.354294,
+              3500.013182999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1788.8571780000009,
+              133.465226,
+              3500.015135999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1790.294434000001,
+              133.401825,
+              3499.0324699999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1791.129028000001,
+              133.453156,
+              3501.106688999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1752.547730000001,
+              134.7388,
+              3548.7905269999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1752.527466000001,
+              134.70318600000002,
+              3547.086669999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1748.558228000001,
+              134.752884,
+              3547.215575999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1749.216797000001,
+              134.72357200000002,
+              3545.878172999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1750.2257080000009,
+              134.732437,
+              3547.1879879999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1754.110474000001,
+              134.69000300000002,
+              3547.450438999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1749.528320000001,
+              134.913941,
+              3554.714598999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1747.749878000001,
+              134.93673700000002,
+              3554.958739999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1746.718384000001,
+              135.064728,
+              3558.027342999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1738.881714000001,
+              136.099198,
+              3579.914549999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1738.9272460000009,
+              136.18922500000002,
+              3581.917479999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1740.0935060000008,
+              136.092484,
+              3580.213866999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1742.4360350000009,
+              136.20047,
+              3583.1030269999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1742.677002000001,
+              136.08831800000002,
+              3580.578124999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1741.640503000001,
+              136.005371,
+              3578.565428999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1742.322266000001,
+              135.929825,
+              3577.0329589999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1741.845581000001,
+              135.898087,
+              3576.271483999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1732.382446000001,
+              137.386917,
+              3604.163329999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1731.4951170000008,
+              137.319733,
+              3603.0949699999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1729.2591550000009,
+              137.14793400000002,
+              3599.771971999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1731.006470000001,
+              137.090271,
+              3599.028319999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1731.954102000001,
+              137.097,
+              3599.395262999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1719.175659000001,
+              137.764939,
+              3625.204100999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1719.389038000001,
+              137.733582,
+              3622.959471999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1716.193604000001,
+              137.777771,
+              3621.278807999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1717.876465000001,
+              137.724381,
+              3620.3754879999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.142700000001,
+              138.800095,
+              3640.538085999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.689209000001,
+              138.70427,
+              3638.868407999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.898193000001,
+              138.78830000000002,
+              3641.727049999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1709.927002000001,
+              138.71283,
+              3640.344481999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1704.958008000001,
+              139.865418,
+              3661.055663999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1704.1906740000009,
+              139.79683,
+              3659.909422999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.004273000001,
+              139.732193,
+              3658.860838999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1704.301514000001,
+              139.606583,
+              3656.712889999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1701.545654000001,
+              139.612366,
+              3656.692137999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1702.769898000001,
+              139.523911,
+              3655.090575999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.367676000001,
+              139.59497100000002,
+              3656.642088999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1703.722901000001,
+              140.634964,
+              3673.967040999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1703.571777000001,
+              140.50851500000002,
+              3671.877196999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.370728000001,
+              140.53147900000002,
+              3671.883299999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.947266000001,
+              140.44217,
+              3670.471190999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.8148190000009,
+              141.06358400000002,
+              3680.584227999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.212769000001,
+              141.094208,
+              3681.237303999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.576416000001,
+              140.993561,
+              3679.616210999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1704.305420000001,
+              141.00636300000002,
+              3679.959227999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.602661000001,
+              141.93974300000002,
+              3696.052489999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.012207000001,
+              141.87918100000002,
+              3694.922118999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.127075000001,
+              141.929551,
+              3695.366942999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.9356690000009,
+              141.98623700000002,
+              3696.4860839999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1709.341797000001,
+              142.083176,
+              3698.204100999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1712.454956000001,
+              143.193665,
+              3721.302977999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1711.423950000001,
+              143.15329,
+              3720.425536999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.836914000001,
+              143.258454,
+              3723.220213999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1709.204834000001,
+              143.191742,
+              3721.570799999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.864502000001,
+              143.87196400000002,
+              3742.072020999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1711.981445000001,
+              143.868088,
+              3741.786620999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1715.3697510000009,
+              143.91952600000002,
+              3746.1655269999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1715.132935000001,
+              143.926041,
+              3751.316405999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1713.060547000001,
+              143.93777500000002,
+              3749.585692999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1714.2840580000009,
+              143.794114,
+              3738.448241999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.083252000001,
+              143.730088,
+              3774.656004999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1709.6484380000009,
+              143.75615000000002,
+              3777.293212999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.6762700000008,
+              143.746445,
+              3776.408202999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1713.1585690000009,
+              143.762741,
+              3778.369872999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1713.302368000001,
+              143.746231,
+              3776.385497999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.122070000001,
+              143.961396,
+              3792.880370999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1709.156250000001,
+              143.955399,
+              3792.564940999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1714.139282000001,
+              143.763611,
+              3737.255858999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.109619000001,
+              143.92918400000002,
+              3790.682860999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1704.385864000001,
+              143.944779,
+              3791.025389999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1704.783447000001,
+              143.9263,
+              3789.617186999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.674439000001,
+              143.930939,
+              3790.301512999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.441162000001,
+              143.965638,
+              3793.0168449999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.909668000001,
+              144.00006100000002,
+              3796.729491999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.771973000001,
+              144.005188,
+              3798.577879999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.487061000001,
+              143.999253,
+              3797.210692999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1704.636353000001,
+              144.002945,
+              3797.173338999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1718.1890870000009,
+              137.761704,
+              3624.468260999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1696.061768000001,
+              143.997193,
+              3814.412352999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.113403000001,
+              143.9944,
+              3811.904051999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.1079100000009,
+              143.994416,
+              3813.487303999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1713.0028080000009,
+              143.752655,
+              3737.002196999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.8765870000009,
+              143.99456800000002,
+              3809.592528999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1699.063355000001,
+              143.98924300000002,
+              3810.0004879999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.228638000001,
+              144.00512700000002,
+              3807.936522999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1698.531372000001,
+              144.003357,
+              3807.619628999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1691.071777000001,
+              143.99774200000002,
+              3811.700438999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1690.562378000001,
+              143.999985,
+              3810.012450999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1691.491699000001,
+              144,
+              3807.130126999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1686.008057000001,
+              143.99800100000002,
+              3806.621337999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.838257000001,
+              143.302567,
+              3815.938963999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1682.467163000001,
+              143.993286,
+              3808.989501999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.276489000001,
+              143.14321900000002,
+              3818.767088999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1709.078003000001,
+              143.16050800000002,
+              3813.847899999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1709.5728760000009,
+              143.107468,
+              3812.092040999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.559204000001,
+              143.23552,
+              3810.996581999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.297119000001,
+              143.061463,
+              3808.903319999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.1788330000009,
+              143.06440800000001,
+              3806.695067999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.608887000001,
+              143.062912,
+              3807.820067999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.9284670000009,
+              143.19867000000002,
+              3807.649657999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1711.734253000001,
+              143.067887,
+              3804.093260999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1711.9284670000009,
+              143.06616200000002,
+              3805.381102999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1695.5078130000009,
+              143.994583,
+              3818.615477999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1695.968872000001,
+              143.997452,
+              3816.147948999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1696.5538330000009,
+              143.989853,
+              3817.098876999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.200806000001,
+              143.98159800000002,
+              3818.184813999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.525513000001,
+              143.984757,
+              3816.597655999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1696.902466000001,
+              143.994965,
+              3815.403563999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1694.025513000001,
+              143.990006,
+              3828.090087999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1692.603882000001,
+              143.990006,
+              3829.022704999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1699.309815000001,
+              143.614609,
+              3831.4387199999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1700.067383000001,
+              143.54963700000002,
+              3830.152098999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1699.185913000001,
+              143.628434,
+              3829.2360839999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1698.065796000001,
+              143.719773,
+              3839.314452999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.342163000001,
+              143.780014,
+              3837.237792999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1698.887695000001,
+              143.647049,
+              3837.370116999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1696.755615000001,
+              143.831513,
+              3839.262450999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.990723000001,
+              143.72844,
+              3841.007323999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1697.4432370000009,
+              143.771805,
+              3838.486327999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1695.197266000001,
+              143.96691900000002,
+              3838.632567999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1693.797119000001,
+              143.981888,
+              3839.811034999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1689.250366000001,
+              143.988861,
+              3839.126952999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1689.143189000001,
+              143.98782400000002,
+              3840.722899999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1690.3740240000009,
+              143.98683200000002,
+              3839.535643999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1694.889282000001,
+              143.990006,
+              3849.869872999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1695.130982000001,
+              143.989548,
+              3847.892577999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1694.001831000001,
+              143.990006,
+              3848.891600999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1693.092163000001,
+              143.990006,
+              3847.902831999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1701.1312260000009,
+              143.96554600000002,
+              3848.760497999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1692.1978760000009,
+              143.990006,
+              3849.539794999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1700.7469480000009,
+              143.94348200000002,
+              3847.207030999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1703.833252000001,
+              143.541886,
+              3842.710692999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1703.134888000001,
+              143.41561900000002,
+              3841.036620999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.098267000001,
+              143.627625,
+              3844.566405999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.9090580000009,
+              143.49731500000001,
+              3843.107909999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1710.258057000001,
+              143.485047,
+              3843.638182999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.852295000001,
+              143.85681200000002,
+              3850.770262999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.857666000001,
+              143.837342,
+              3849.649169999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.358032000001,
+              143.872239,
+              3849.157713999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1686.835327000001,
+              143.990006,
+              3846.285643999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1686.996826000001,
+              143.990006,
+              3847.961424999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1688.316284000001,
+              143.989594,
+              3847.194090999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1683.457764000001,
+              143.990006,
+              3864.708983999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1682.707642000001,
+              143.990006,
+              3863.432128999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1683.4550780000009,
+              143.990006,
+              3862.051268999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1688.446167000001,
+              143.990006,
+              3867.231444999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1689.255982000001,
+              143.990006,
+              3865.523436999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1690.953858000001,
+              143.990006,
+              3865.763915999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1690.437378000001,
+              143.990006,
+              3864.368407999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1683.786255000001,
+              143.990006,
+              3880.175047999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1684.386841000001,
+              143.990006,
+              3878.624022999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1682.530762000001,
+              143.990006,
+              3877.811766999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1683.538574000001,
+              143.990006,
+              3877.603758999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1678.205689000001,
+              143.990006,
+              3876.446044999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1677.741577000001,
+              143.990006,
+              3875.202147999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1679.623413000001,
+              143.990006,
+              3875.135253999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1680.501343000001,
+              143.990006,
+              3877.895262999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1679.500977000001,
+              143.990006,
+              3880.799559999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1672.568360000001,
+              143.990006,
+              3896.693602999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1673.6185300000009,
+              143.990006,
+              3896.081542999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1672.769776000001,
+              143.990006,
+              3894.896239999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1673.891724000001,
+              143.990006,
+              3893.380614999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1675.005493000001,
+              143.990006,
+              3893.1418449999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1674.035278000001,
+              143.990006,
+              3891.432860999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1674.984863000001,
+              143.990006,
+              3891.497557999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1677.029541000001,
+              143.990006,
+              3892.694579999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1677.925293000001,
+              143.990006,
+              3895.207762999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1672.9060060000008,
+              143.990006,
+              3890.302733999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1671.624268000001,
+              143.98407,
+              3889.497557999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1674.2147220000008,
+              143.990006,
+              3889.838378999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1674.6762700000008,
+              143.990006,
+              3898.156493999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1667.374634000001,
+              143.976303,
+              3905.914061999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1664.840454000001,
+              143.969315,
+              3906.092528999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1665.937012000001,
+              143.972474,
+              3906.1574699999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1666.679443000001,
+              143.974457,
+              3903.468504999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1655.316651000001,
+              144.076737,
+              3934.014891999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1655.543091000001,
+              144.06959600000002,
+              3932.943602999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1653.499878000001,
+              144.06916800000002,
+              3932.594481999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1655.369141000001,
+              144.063965,
+              3932.086424999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1657.706543000001,
+              144.07063300000002,
+              3933.098876999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1658.220459000001,
+              144.0607,
+              3931.610106999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1659.363159000001,
+              144.066697,
+              3932.508544999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1661.752075000001,
+              144.17021200000002,
+              3945.854003999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.6441650000008,
+              144.175476,
+              3946.293456999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.9207760000008,
+              144.160355,
+              3945.0329589999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1658.354248000001,
+              144.170884,
+              3945.910887999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1657.324341000001,
+              144.189041,
+              3947.4235839999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1654.632446000001,
+              144.206375,
+              3948.868407999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1655.645264000001,
+              144.211884,
+              3949.327879999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1662.381836000001,
+              144.723969,
+              3969.588866999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1661.667969000001,
+              144.69880700000002,
+              3969.016600999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1661.794434000001,
+              144.641861,
+              3967.471434999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.401123000001,
+              144.675141,
+              3968.563963999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1654.830200000001,
+              144.750458,
+              3971.568846999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.3148190000009,
+              144.63952700000002,
+              3967.622557999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1656.1531980000009,
+              144.699814,
+              3969.929198999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1655.485840000001,
+              144.666428,
+              3969.151366999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1657.1868900000009,
+              144.665512,
+              3968.788817999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.5457760000008,
+              144.598343,
+              3966.365477999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1658.9799810000009,
+              144.565201,
+              3965.543700999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.996216000001,
+              145.81831400000002,
+              3992.628661999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1658.549439000001,
+              145.52113400000002,
+              3988.838378999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1659.976685000001,
+              145.529297,
+              3988.142577999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1659.633179000001,
+              145.465424,
+              3987.046874999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.975464000001,
+              145.494873,
+              3986.938475999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1667.8887940000009,
+              145.661698,
+              3985.869383999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1666.7368170000009,
+              145.59343,
+              3985.294921999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1666.036865000001,
+              145.65437400000002,
+              3986.732176999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1666.515869000001,
+              145.804291,
+              3989.026366999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1666.468628000001,
+              145.983628,
+              3992.026122999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1666.632324000001,
+              145.943711,
+              3991.241698999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1665.540161000001,
+              145.884308,
+              3990.923827999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1668.428345000001,
+              146.136017,
+              3993.3767089999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1678.792114000001,
+              147.42981,
+              4008.736815999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1677.950562000001,
+              147.36303700000002,
+              4007.646483999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1676.608887000001,
+              147.255738,
+              4006.992919999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1671.100464000001,
+              143.991242,
+              3908.753905999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1679.565796000001,
+              147.36258,
+              4007.265379999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1681.181763000001,
+              147.51275700000002,
+              4008.904296999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1678.470581000001,
+              147.313599,
+              4006.575682999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1675.574951000001,
+              147.13330100000002,
+              4006.271971999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1679.4765630000009,
+              147.11554,
+              4002.428221999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1681.841431000001,
+              147.259446,
+              4002.679686999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1678.185181000001,
+              147.158524,
+              4005.050536999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1696.970825000001,
+              148.257203,
+              4010.0393059999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1695.824829000001,
+              148.175309,
+              4009.098387999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1708.644287000001,
+              149.18772900000002,
+              4021.263671999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1706.966309000001,
+              149.09625300000002,
+              4021.271239999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1707.487427000001,
+              149.087937,
+              4020.166991999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1727.198975000001,
+              151.173279,
+              4039.504881999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1668.9360350000009,
+              143.991242,
+              3910.201415999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1670.3026120000009,
+              143.992951,
+              3910.948241999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1677.837158000001,
+              147.229004,
+              4006.004637999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1725.606079000001,
+              151.000977,
+              4038.160887999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1732.971680000001,
+              151.260392,
+              4035.282225999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1731.901245000001,
+              151.14357,
+              4034.207762999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1730.2828370000009,
+              151.02542200000002,
+              4033.761229999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1728.532349000001,
+              150.894608,
+              4033.220702999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1729.679077000001,
+              150.926331,
+              4032.537108999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1728.770752000001,
+              150.825013,
+              4031.613036999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1747.401734000001,
+              153.579239,
+              4064.481932999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1749.369629000001,
+              153.851334,
+              4068.6811519999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1753.857788000001,
+              153.70129400000002,
+              4062.385985999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1752.504151000001,
+              153.549027,
+              4060.250731999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1765.699463000001,
+              155.222306,
+              4087.2817379999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1765.851196000001,
+              155.18197700000002,
+              4086.285399999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1769.460571000001,
+              155.24546800000002,
+              4085.138426999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1773.854248000001,
+              155.68029800000002,
+              4091.854979999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1784.1365970000008,
+              157.333527,
+              4120.926268999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1782.7181400000009,
+              157.203904,
+              4119.141600999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1789.6121830000009,
+              157.381226,
+              4118.388182999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1792.677124000001,
+              157.687928,
+              4122.929198999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1804.463379000001,
+              159.438752,
+              4156.639647999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1814.3903810000008,
+              159.911515,
+              4161.598631999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1829.540039000001,
+              161.892289,
+              4185.460448999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1827.891358000001,
+              161.71670600000002,
+              4183.730467999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1827.215088000001,
+              161.757767,
+              4184.725096999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1662.088745000001,
+              143.958298,
+              3904.544188999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1662.957031000001,
+              143.961777,
+              3905.783934999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1661.880615000001,
+              143.960831,
+              3908.342772999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1663.269531000001,
+              143.967011,
+              3908.497557999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1662.647095000001,
+              143.969254,
+              3909.681883999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1659.889404000001,
+              143.95309500000002,
+              3908.3999019999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1659.837891000001,
+              143.949295,
+              3906.402831999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1646.038574000001,
+              143.739731,
+              3898.945311999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1648.070801000001,
+              143.762513,
+              3899.760253999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1647.853272000001,
+              143.766892,
+              3900.629149999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1640.007691000001,
+              143.688065,
+              3879.663573999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1638.039795000001,
+              143.694138,
+              3879.455809999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1634.995239000001,
+              143.701386,
+              3879.662840999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1635.523682000001,
+              143.69664,
+              3880.511962999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1637.179566000001,
+              143.692047,
+              3880.552977999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1637.982788000001,
+              143.784195,
+              3865.732909999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1638.282349000001,
+              143.77061500000002,
+              3867.429442999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1634.253906000001,
+              143.758011,
+              3868.246825999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1642.850098000001,
+              143.983307,
+              3842.688475999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1639.313233000001,
+              143.985474,
+              3841.139159999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1642.003906000001,
+              143.97683800000001,
+              3844.691649999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1638.780762000001,
+              143.980027,
+              3842.500243999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1640.172119000001,
+              143.97833300000002,
+              3843.215819999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1649.591065000001,
+              144.029541,
+              3817.844725999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1649.062988000001,
+              144.027497,
+              3819.381835999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1645.329956000001,
+              144.029999,
+              3817.028075999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1646.527466000001,
+              144.02993800000002,
+              3817.543944999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1655.359863000001,
+              143.99198900000002,
+              3796.483397999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1654.920166000001,
+              143.998108,
+              3801.083006999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1653.796753000001,
+              143.99739100000002,
+              3800.541991999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1651.3465580000009,
+              143.990021,
+              3795.008299999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1651.480103000001,
+              143.993027,
+              3797.2661129999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1654.815796000001,
+              144.000077,
+              3802.526366999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1657.114014000001,
+              143.99868800000002,
+              3801.519774999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1659.282593000001,
+              143.970002,
+              3783.723387999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1657.2806400000009,
+              143.970002,
+              3781.690917999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1658.028076000001,
+              143.970002,
+              3783.886229999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1660.185791000001,
+              143.96820100000002,
+              3778.649169999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1664.800171000001,
+              143.929261,
+              3764.6254879999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1661.241943000001,
+              143.924958,
+              3761.2436519999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1663.350952000001,
+              143.919342,
+              3760.178954999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1672.741699000001,
+              143.39766,
+              3736.848631999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1662.457764000001,
+              143.92485100000002,
+              3761.799559999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1672.089478000001,
+              143.46382200000002,
+              3738.7592769999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1668.949951000001,
+              144,
+              3805.521971999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1674.3422850000009,
+              143.997116,
+              3802.840087999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1673.161743000001,
+              143.993714,
+              3806.581542999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1705.1243900000009,
+              143.664566,
+              3808.194090999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1703.889771000001,
+              143.813401,
+              3810.042235999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1815.7172850000009,
+              138.33654800000002,
+              3870.148924999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1670.921021000001,
+              143.345459,
+              3739.027342999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1817.114380000001,
+              138.29736400000002,
+              3871.360838999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1815.598633000001,
+              138.55365,
+              3877.307616999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1813.343750000001,
+              138.70030200000002,
+              3876.234374999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1814.7612310000009,
+              138.578278,
+              3876.076171999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1783.523804000001,
+              140.730759,
+              3874.138426999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1784.086670000001,
+              140.758957,
+              3872.3374019999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1784.571045000001,
+              140.728836,
+              3873.0549309999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1783.286865000001,
+              140.88188200000002,
+              3866.057616999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1785.044556000001,
+              140.815491,
+              3867.998046999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1786.377564000001,
+              140.731324,
+              3868.179442999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1753.473023000001,
+              141.55375700000002,
+              3867.503661999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1754.3609620000009,
+              141.54757700000002,
+              3866.377684999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1755.365357000001,
+              141.450791,
+              3867.694579999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1758.344116000001,
+              141.577225,
+              3862.473631999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1755.033081000001,
+              141.72992000000002,
+              3860.221434999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1758.698364000001,
+              141.534119,
+              3863.356200999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1743.157349000001,
+              142.151642,
+              3863.022704999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1673.3194580000009,
+              142.68956,
+              3727.6423339999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1672.469727000001,
+              144,
+              3802.074950999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1744.268189000001,
+              142.127427,
+              3861.573485999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1745.302979000001,
+              142.068421,
+              3862.140135999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1721.693115000001,
+              143.248047,
+              3848.651366999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1723.618652000001,
+              143.199555,
+              3850.6579589999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1724.992920000001,
+              143.11192400000002,
+              3851.231932999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1725.9550780000009,
+              143.06189,
+              3850.264891999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1726.324341000001,
+              143.061798,
+              3851.291258999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1879.571411000001,
+              138.208573,
+              3870.730223999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1877.8930670000009,
+              138.186203,
+              3868.843749999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1876.168335000001,
+              138.139664,
+              3869.641356999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1880.2009280000009,
+              138.289521,
+              3862.343504999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1879.650391000001,
+              138.269867,
+              3863.237547999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1911.618775000001,
+              139.33036800000002,
+              3856.036620999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1910.922974000001,
+              139.32013,
+              3854.914061999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1911.4989010000008,
+              139.261505,
+              3861.469481999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1910.029297000001,
+              139.204666,
+              3862.448973999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1909.5263670000008,
+              139.198136,
+              3861.707762999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1908.921387000001,
+              139.194413,
+              3860.473876999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1797.540527,
+              132.99321,
+              3491.867432
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1791.378418,
+              133.41129999999998,
+              3500.015381
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1774.900146,
+              134.195114,
+              3519.528076
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1752.741821,
+              134.677719,
+              3545.666992
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1743.093994,
+              135.94754,
+              3577.543701
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1732.44104,
+              137.05197099999998,
+              3598.598877
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1720.257568,
+              137.72053499999998,
+              3622.262451
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1708.772705,
+              138.64978,
+              3638.425049
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1705.054199,
+              139.607544,
+              3656.797607
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1703.501343,
+              139.890671,
+              3661.512939
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1706.186035,
+              140.964416,
+              3679.06958
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1708.264404,
+              142.112655,
+              3698.883057
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1712.123291,
+              143.114013,
+              3719.402588
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1712.747803,
+              143.862701,
+              3741.474609
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1710.503784,
+              143.718765,
+              3773.45166
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1706.487183,
+              143.92571999999998,
+              3790.147461
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1703.865723,
+              144.003311,
+              3796.974609
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1700.039551,
+              143.988037,
+              3809.697998
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1691.512085,
+              143.999862,
+              3809.248291
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1694.80542,
+              143.989868,
+              3828.397949
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1693.533936,
+              143.989868,
+              3847.63623
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1680.655762,
+              143.989868,
+              3875.069336
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1675.474121,
+              143.989868,
+              3894.635254
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1670.444092,
+              143.98439,
+              3895.710693
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1667.759155,
+              143.989563,
+              3910.579346
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1664.373535,
+              143.972656,
+              3908.820068
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1660.116333,
+              144.070328,
+              3933.06543
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1666.38269,
+              145.75087,
+              3988.216553
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1708.05481,
+              149.095657,
+              4019.438965
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1766.066772,
+              155.140152,
+              4085.195068
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1784.847168,
+              157.333832,
+              4120.495605
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1649.247314,
+              143.768127,
+              3899.281006
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1637.039551,
+              143.695968,
+              3879.617188
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1640.297607,
+              143.986908,
+              3840.742432
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1646.29126,
+              144.027832,
+              3819.025146
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1654.04248,
+              144.001816,
+              3802.987793
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1656.238525,
+              143.969864,
+              3782.059814
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1663.563965,
+              143.921448,
+              3761.125732
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1671.454346,
+              143.472091,
+              3740.000488
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1674.550781,
+              142.68078599999998,
+              3726.583252
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1744.427490000001,
+              142.093476,
+              3863.0717769999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1725.175049,
+              143.115875,
+              3852.16748
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1758.448853,
+              141.507644,
+              3864.1875
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1783.706299,
+              140.848221,
+              3867.831787
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1911.297974,
+              139.311706,
+              3856.793213
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1919.456177,
+              139.544693,
+              3856.820801
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Wreck_Uaz",
+              "pos": [
+              1796.925293,
+              133.733917,
+              3488.543701
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1797.9154050000009,
+              132.91459700000001,
+              3489.915282999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1798.340088000001,
+              132.81208800000002,
+              3487.281249999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1797.433716000001,
+              132.801972,
+              3486.427489999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1799.041870000001,
+              132.830918,
+              3488.293700999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1799.192627000001,
+              132.768189,
+              3486.653075999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1798.703613,
+              132.93057199999998,
+              3490.859619
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1799.380126999999,
+              132.701599,
+              3484.9538570000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1794.189574999999,
+              133.259354,
+              3497.2807620000003
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1753.6665039999991,
+              134.610962,
+              3542.1362310000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1735.610228999999,
+              136.88455199999999,
+              3596.2038570000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1705.223510999999,
+              140.793564,
+              3676.3806150000005
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1713.7586669999991,
+              143.85008299999998,
+              3758.1135250000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1711.7834469999991,
+              143.894364,
+              3754.2727050000003
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1702.9908449999991,
+              143.953339,
+              3804.8933110000003
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1688.787841999999,
+              143.990006,
+              3854.7587890000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1671.916991999999,
+              143.988327,
+              3903.9121090000003
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1655.671508999999,
+              144.147553,
+              3943.4331060000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiadirt.p3d",
+              "pos": [
+              1674.658812999999,
+              146.67041,
+              3998.0632320000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants_bliss\\building\\ivy_g.p3d",
+              "pos": [
+              1798.066528,
+              133.164734,
+              3488.585693
+            ],
+              "ypr": [
+              3.000004,
+              0,
+              90
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Wreck_Ikarus",
+              "pos": [
+              1702.159058,
+              145.015076,
+              3789.518066
+            ],
+              "ypr": [
+              152.000244,
+              1,
+              -5
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Wreck_Lada_Green",
+              "pos": [
+              1707.30896,
+              144.057877,
+              3809
+            ],
+              "ypr": [
+              -0.999999,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Wreck_Lada_Red",
+              "pos": [
+              1694.891113,
+              144.661209,
+              3803.941406
+            ],
+              "ypr": [
+              93.000031,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+              "pos": [
+              1703.905151,
+              145.462921,
+              3784.231201
+            ],
+              "ypr": [
+              70.000015,
+              0,
+              90
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+              "pos": [
+              1703.31311,
+              146.383102,
+              3789.63208
+            ],
+              "ypr": [
+              -29.000008,
+              -89.000046,
+              90
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_bagfence_round",
+              "pos": [
+              1699.173828,
+              143.915619,
+              3837.894287
+            ],
+              "ypr": [
+              -68.40213,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_barbedwire",
+              "pos": [
+              1692.541504,
+              144.74321,
+              3831.727051
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_barbedwire",
+              "pos": [
+              1684.974487,
+              144.74321,
+              3858.572998
+            ],
+              "ypr": [
+              -1,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_barbedwire",
+              "pos": [
+              1695.088379,
+              144.743988,
+              3853.218262
+            ],
+              "ypr": [
+              -28.00001,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_concreteblock2_damaged",
+              "pos": [
+              1711.749512,
+              144.132645,
+              3850.818115
+            ],
+              "ypr": [
+              75.000031,
+              12,
+              3.000003
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_concreteblock2_damaged",
+              "pos": [
+              1720.048096,
+              143.655518,
+              3847.075928
+            ],
+              "ypr": [
+              44,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_slum_roof4",
+              "pos": [
+              1700.380737,
+              144.313324,
+              3837.290527
+            ],
+              "ypr": [
+              -69,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "Land_Roadblock_Table",
+              "pos": [
+              1700.470093,
+              143.909866,
+              3836.275391
+            ],
+              "ypr": [
+              124.000397,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_rubble_dirtpile_large",
+              "pos": [
+              1704.174927,
+              144.099838,
+              3834.956543
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1712.6987310000009,
+              143.676941,
+              3849.792967999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1712.2447510000009,
+              143.722214,
+              3851.0080559999988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1715.694336000001,
+              143.618515,
+              3852.0637199999987
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_antenna",
+              "pos": [
+              1705.845581,
+              146.67984,
+              3840.418701
+            ],
+              "ypr": [
+              124.000397,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_wreck_hmmwv",
+              "pos": [
+              1713.533813,
+              144.62674,
+              3852.921143
+            ],
+              "ypr": [
+              85.000031,
+              -3,
+              -1
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1716.026611000001,
+              143.666031,
+              3853.506346999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_2s.p3d",
+              "pos": [
+              1722.503906000001,
+              143.429917,
+              3858.471434999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              1731.022339,
+              142.86146499999998,
+              3848.7409660000008
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              1713.646973,
+              143.396118,
+              3798.272461000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              1690.726318,
+              143.99977099999998,
+              3805.043701000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_2s.p3d",
+              "pos": [
+              1718.349365000001,
+              143.72886699999998,
+              3776.389891999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigia_green.p3d",
+              "pos": [
+              1759.770142000001,
+              141.528672,
+              3862.794432999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_elytrigiatall.p3d",
+              "pos": [
+              1816.142822,
+              138.37129199999998,
+              3872.058594
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          }
+	]
+}
