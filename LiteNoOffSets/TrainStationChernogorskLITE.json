@@ -1,0 +1,326 @@
+{
+	"Objects": [
+{
+              "name": "DZ\\plants\\tree\\b_fagussylvatica_1f.p3d",
+              "pos": [
+              6544.217285,
+              14.70009,
+              2659.949707
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1f.p3d",
+              "pos": [
+              6531.679199,
+              17.337456,
+              2669.039551
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              6527.294434,
+              16.533092,
+              2651.404785
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2d.p3d",
+              "pos": [
+              6517.948242,
+              20.1562,
+              2644.517334
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2fc.p3d",
+              "pos": [
+              6540.425781,
+              20.664101,
+              2665.769775
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              6535.4375,
+              20.147894,
+              2661.648438
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+              "pos": [
+              6521.592773,
+              20.509157,
+              2646.135986
+            ],
+              "ypr": [
+              177.999969,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6568.001953,
+              21.755009,
+              2652.921387
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              6542.691895,
+              24.536587,
+              2671.025146
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\cutted_cut\\t_fagussylvatica_2f_cut.p3d",
+              "pos": [
+              6518.519531,
+              24.054619,
+              2598.582275
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3fb_test.p3d",
+              "pos": [
+              6490.510742,
+              24.729908,
+              2608.166748
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6508.006836,
+              21.188583,
+              2622.202148
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6499.854492,
+              20.286993,
+              2620.378418
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              6578.398926,
+              17.847446,
+              2700.911865
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6585.868164,
+              21.585503,
+              2702.437744
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_y.p3d",
+              "pos": [
+              6591.261719,
+              21.696676,
+              2683.75
+            ],
+              "ypr": [
+              52,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6571.61084,
+              21.455778,
+              2681.107666
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6525.212891,
+              17.347757,
+              2587.363281
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              6489.86084,
+              21.136232,
+              2593.326416
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_tree_pavement1",
+              "pos": [
+              6554.319336,
+              13.824425,
+              2630.46582
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "staticobj_misc_tree_pavement1",
+              "pos": [
+              6559.727051,
+              13.824425,
+              2636.202881
+            ],
+              "ypr": [
+              42,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              6559.446777,
+              23.114128,
+              2636.002197
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              6554.660156,
+              21.963179,
+              2630.699707
+            ],
+              "ypr": [
+              63,
+              0,
+              0
+              ],
+              "scale": 1
+          }
+			]
+	}

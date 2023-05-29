@@ -1,0 +1,4504 @@
+{
+	"Objects": [
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4391.190918,
+              312.923828,
+              6364.320801
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_3f.p3d",
+              "pos": [
+              4390.441895,
+              312.516693,
+              6430.60498
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_3f.p3d",
+              "pos": [
+              4397.688477,
+              311.475891,
+              6472.8125
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_salixalba_2sb.p3d",
+              "pos": [
+              4555.557617,
+              292.319519,
+              6460.712402
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_3sb.p3d",
+              "pos": [
+              4574.52832,
+              294.623352,
+              6469.67041
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_1f.p3d",
+              "pos": [
+              4572.524902,
+              287.608032,
+              6437.994629
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2f.p3d",
+              "pos": [
+              4579.49707,
+              293.616302,
+              6439.265625
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4594.931641,
+              292.148987,
+              6425.601074
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4626.604492,
+              291.873932,
+              6401.031738
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4517.594238,
+              301.456512,
+              6407.152344
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4517.033691,
+              302.955444,
+              6345.682129
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_populusalba_2s.p3d",
+              "pos": [
+              4414.383301,
+              311.117279,
+              6359.306152
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_populusalba_1f.p3d",
+              "pos": [
+              4411.282227,
+              308.195465,
+              6339.624023
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_populusalba_3s.p3d",
+              "pos": [
+              4411.880859,
+              313.190521,
+              6347.225586
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_populusalba_3s.p3d",
+              "pos": [
+              4397.572266,
+              310.193024,
+              6410.896973
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_prunusdomestica_2s.p3d",
+              "pos": [
+              4434.943848,
+              303.763214,
+              6425.098633
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4451.85791,
+              306.45694,
+              6458.995605
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4524.814941,
+              300.084839,
+              6457.529297
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4574.446289,
+              296.406036,
+              6389.800781
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4461.21875,
+              307.191467,
+              6361.465332
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              4466.350586,
+              305.647003,
+              6402.805664
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_3f.p3d",
+              "pos": [
+              4544.703613,
+              299.385803,
+              6430.97998
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_3f.p3d",
+              "pos": [
+              4494.531738,
+              304.806458,
+              6384.625488
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2sb_trail_g_summer.p3d",
+              "pos": [
+              4394.237305,
+              309.77655,
+              6400.447754
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3s_summer.p3d",
+              "pos": [
+              4411.025391,
+              312.479462,
+              6427.741211
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3s_summer.p3d",
+              "pos": [
+              4438.022461,
+              309.846954,
+              6443.108398
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3s_summer.p3d",
+              "pos": [
+              4498.724121,
+              305.27002,
+              6409.768555
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3s_summer.p3d",
+              "pos": [
+              4563.435059,
+              298.117798,
+              6418.941895
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3s_summer.p3d",
+              "pos": [
+              4367.449707,
+              315.35675,
+              6474.271484
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3s_summer.p3d",
+              "pos": [
+              4514.15332,
+              303.178345,
+              6428.288086
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3f_summer.p3d",
+              "pos": [
+              4535.057129,
+              303.205811,
+              6382.171387
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4705.879883,
+              283.059875,
+              6349.185059
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4706.445313,
+              283.07251,
+              6350.253418
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4705.48584,
+              283.056641,
+              6350.536133
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4702.138184,
+              283.006195,
+              6355.305664
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4704.182617,
+              283.043579,
+              6355.709473
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4702.71582,
+              283.016571,
+              6354.526855
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4701.10498,
+              282.93457,
+              6348.063965
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4715.310547,
+              283.12085,
+              6356.413086
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4714.236816,
+              283.072327,
+              6358.019043
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4707.929199,
+              283.034485,
+              6359.103027
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4699.525879,
+              282.90863,
+              6347.864258
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4698.727539,
+              282.908173,
+              6349.033203
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4690.30127,
+              282.701935,
+              6356.79541
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4692.546875,
+              282.782501,
+              6356.557129
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4692.377441,
+              282.781372,
+              6355.255371
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4662.351563,
+              282.008331,
+              6362.165527
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4667.473633,
+              282.042572,
+              6367.13916
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4669.891602,
+              282.088409,
+              6366.24707
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4668.588867,
+              282.066406,
+              6366.389648
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4637.26123,
+              282.162048,
+              6373.363281
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4638.928711,
+              282.138702,
+              6372.861816
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4638.779785,
+              282.147369,
+              6373.893066
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4638.487793,
+              282.191345,
+              6377.48291
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4639.989746,
+              282.164825,
+              6376.842773
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4639.328125,
+              282.199219,
+              6379.259766
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4612.390137,
+              282.576141,
+              6394.539551
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4615.447754,
+              282.563873,
+              6395.472656
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4615.445801,
+              282.554565,
+              6393.08252
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4614.981445,
+              282.555756,
+              6391.669434
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4615.870605,
+              282.548859,
+              6390.931641
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4617.14209,
+              282.541992,
+              6392.131348
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4608.539063,
+              282.637329,
+              6421.134766
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4607.898926,
+              282.622101,
+              6419.942871
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4608.159668,
+              282.612549,
+              6417.723633
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4606.514648,
+              282.617584,
+              6417.592773
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4601.977051,
+              282.638916,
+              6417.272461
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4601.025391,
+              282.717834,
+              6423.115723
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4580.041016,
+              284.536133,
+              6447.124023
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4576.251953,
+              284.932251,
+              6447.955566
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4577.828125,
+              284.881226,
+              6450.041016
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4579.318848,
+              284.669952,
+              6448.489746
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4579.214355,
+              284.753693,
+              6450.258301
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4577.086914,
+              284.949432,
+              6454.603027
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4579.587402,
+              284.748108,
+              6453.912109
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4556.813477,
+              286.915863,
+              6450.347168
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4557.131348,
+              286.967651,
+              6448.311523
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4557.895508,
+              286.839447,
+              6449.669434
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4556.984863,
+              287.199707,
+              6443.188477
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4558.159668,
+              287.034058,
+              6444.538574
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4553.331055,
+              287.539703,
+              6443.098633
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4531.260254,
+              290.298004,
+              6431.227051
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4532.86084,
+              290.20166,
+              6432.640625
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4539.561035,
+              289.645844,
+              6428.716797
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4540.565918,
+              289.383911,
+              6430.045898
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4539.45166,
+              289.440979,
+              6430.787598
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4526.193359,
+              291.06366,
+              6416.279297
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4526.114746,
+              291.03067,
+              6418.54248
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4526.999023,
+              290.927094,
+              6420.336914
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4521.381836,
+              290.61319,
+              6426.854492
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4522.506348,
+              290.430847,
+              6426.903809
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4523.54834,
+              290.370941,
+              6427.227539
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4523.643555,
+              290.497559,
+              6425.755371
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4522.26709,
+              290.62204,
+              6425.516113
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4524.100586,
+              290.76004,
+              6423.173828
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4523.55957,
+              290.672119,
+              6424.216309
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4523.49707,
+              291.118286,
+              6420.212891
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4524.560547,
+              290.983368,
+              6420.944824
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4522.528809,
+              291.067963,
+              6421.114258
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4526.927734,
+              290.982788,
+              6418.959473
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4505.542969,
+              292.869781,
+              6421.013672
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4506.95166,
+              292.694763,
+              6422.045898
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4506.862793,
+              292.747833,
+              6420.424805
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4501.733398,
+              293.443024,
+              6410.875488
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4501.737305,
+              293.417175,
+              6412.070801
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4503.841309,
+              293.179596,
+              6413.535156
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4512.025879,
+              292.406738,
+              6412.947266
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4511.49707,
+              292.434937,
+              6414.042969
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4512.623047,
+              292.31131,
+              6415.02832
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4476.20459,
+              295.589447,
+              6412.854004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4477.71875,
+              295.491882,
+              6409.946289
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4478.246094,
+              295.445282,
+              6411.134766
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4478.967285,
+              295.367035,
+              6413.336914
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4491.009766,
+              294.352875,
+              6416.294434
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4489.077148,
+              294.507935,
+              6417.115234
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4489.5,
+              294.543732,
+              6410.45166
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4487.666992,
+              294.687714,
+              6411.07959
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4486.646973,
+              294.763611,
+              6411.782227
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4485.998535,
+              294.831329,
+              6410.69873
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4477.196289,
+              295.483002,
+              6416.714355
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4478.604004,
+              295.366608,
+              6417.018555
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4477.649902,
+              295.521393,
+              6406.275391
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4478.96582,
+              295.430634,
+              6405.418945
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4475.600098,
+              295.674164,
+              6406.320801
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4474.65332,
+              295.727814,
+              6409.427734
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4467.662109,
+              296.20047,
+              6422.745117
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4466.964355,
+              296.274628,
+              6421.903809
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4469.499512,
+              296.07608,
+              6422.160156
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4472.538086,
+              295.803558,
+              6424.761719
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4472.301758,
+              295.845337,
+              6422.410645
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4469.278809,
+              296.102051,
+              6421.047363
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4471.871094,
+              295.918762,
+              6415.756836
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4470.746094,
+              296.004272,
+              6416.356445
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4469.625977,
+              296.093109,
+              6415.274414
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4462.155273,
+              296.600067,
+              6409.284668
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4459.943359,
+              296.75293,
+              6408.246582
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4460.828125,
+              296.703979,
+              6409.493652
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4457.273926,
+              296.939697,
+              6407.148926
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4456.900879,
+              297.000977,
+              6409.39209
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4456.966309,
+              297.016541,
+              6410.793457
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4458.47998,
+              296.83783,
+              6406.450195
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4461.888672,
+              296.569672,
+              6405.831543
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4459.804688,
+              296.801941,
+              6410.871094
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4458.370117,
+              297.007172,
+              6418.239746
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4458.657227,
+              296.977173,
+              6417.544922
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4461.047852,
+              296.800446,
+              6418.609863
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4458.67627,
+              296.951477,
+              6415.490234
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4460.287109,
+              296.829987,
+              6415.769043
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4459.789063,
+              296.881073,
+              6416.885254
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4446.438477,
+              297.987183,
+              6420.929199
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4449.059082,
+              297.764893,
+              6419.88623
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4447.641113,
+              297.864716,
+              6419.416992
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4448.545898,
+              297.775787,
+              6418.358887
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4459.648926,
+              296.420746,
+              6438.279297
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4459.302734,
+              296.422424,
+              6440.397461
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4460.776855,
+              296.384308,
+              6439.114746
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4438.759277,
+              298.39328,
+              6433.093262
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4442.385742,
+              298.057404,
+              6433.904785
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4441.426758,
+              298.218262,
+              6432.326172
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4442.710938,
+              298.08963,
+              6432.832031
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4434.971191,
+              298.982147,
+              6426.271973
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4435.432129,
+              298.917236,
+              6424.17627
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4436.200195,
+              298.872131,
+              6425.571777
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4434.144043,
+              299.010345,
+              6423.660156
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4435.602051,
+              298.886719,
+              6423.103027
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4434.939941,
+              298.902832,
+              6420.854492
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4436.114258,
+              298.811401,
+              6420.913086
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4436.769531,
+              298.786407,
+              6422.574219
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4438.202637,
+              298.683075,
+              6423.608398
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4433.587891,
+              298.983643,
+              6419.192383
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4430.563965,
+              299.299408,
+              6418.40625
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4428.007324,
+              299.471985,
+              6414.901367
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4428.814453,
+              299.430725,
+              6415.032715
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4429.575195,
+              299.408936,
+              6416.525879
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4427.810547,
+              299.59198,
+              6416.880859
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4431.085938,
+              299.236145,
+              6415.338867
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4419.612793,
+              300.242096,
+              6428.109375
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4420.859375,
+              300.056641,
+              6429.024902
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4420.595215,
+              300.184875,
+              6427.075684
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4420.601074,
+              300.257813,
+              6424.676758
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4419.536133,
+              300.367523,
+              6424.607422
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4419.461426,
+              300.437897,
+              6421.98584
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4413.468262,
+              300.852936,
+              6417.460449
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4414.949707,
+              300.798645,
+              6419.012695
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4419.371094,
+              300.272522,
+              6411.42041
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4418.119629,
+              300.494568,
+              6413.056152
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4417.742676,
+              300.586121,
+              6411.43457
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4420.793945,
+              300.046478,
+              6410.674805
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4420.09375,
+              300.228455,
+              6413.757324
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4410.282227,
+              301.047882,
+              6422.976074
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4408.882813,
+              301.144409,
+              6422.037109
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4409.649414,
+              301.091492,
+              6421.5625
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4408.723633,
+              301.115479,
+              6420.65625
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4406.329102,
+              301.093903,
+              6417.447754
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4408.23291,
+              301.105621,
+              6416.191406
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4409.311035,
+              301.10434,
+              6416.328125
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4408.449707,
+              301.11676,
+              6414.99707
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4406.900391,
+              301.130829,
+              6414.466309
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4408.675781,
+              301.232941,
+              6411.039063
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4407.601074,
+              301.305237,
+              6409.901855
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4408.679688,
+              301.324677,
+              6409.400391
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4405.117676,
+              302.183838,
+              6399.328613
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4403.543945,
+              302.241302,
+              6398.609375
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.206055,
+              302.152191,
+              6399.90625
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.280762,
+              302.268799,
+              6399.398438
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4397.805176,
+              302.348511,
+              6396.933105
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4398.318848,
+              302.232758,
+              6400.670898
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4406.258301,
+              302.842224,
+              6383.040039
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.681152,
+              302.842896,
+              6383.020996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.809082,
+              302.790222,
+              6384.601074
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4402.331055,
+              302.778748,
+              6384.944336
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.157715,
+              302.868805,
+              6382.020996
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.679199,
+              302.796997,
+              6384.269531
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4397.963867,
+              302.817444,
+              6383.339355
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4398.359863,
+              302.765717,
+              6385.156738
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.676758,
+              303.624634,
+              6363.766113
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.031738,
+              303.530243,
+              6365.789063
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.035645,
+              303.491302,
+              6366.623535
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4401.353027,
+              303.429199,
+              6368.01123
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.577148,
+              303.42514,
+              6368.109375
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4403.174805,
+              303.412689,
+              6368.410645
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4405.422852,
+              303.475586,
+              6366.976074
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4405.26709,
+              303.686035,
+              6362.528809
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4398.813477,
+              304.771393,
+              6338.501465
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4398.131348,
+              304.687622,
+              6340.384766
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4398.925293,
+              304.654175,
+              6341.168945
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.33252,
+              304.688751,
+              6340.425781
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.788086,
+              304.609161,
+              6342.217773
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4406.202637,
+              304.749359,
+              6339.114258
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4405.276367,
+              304.81665,
+              6337.584473
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4405.62207,
+              304.820068,
+              6335.636719
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4406.09668,
+              304.857605,
+              6333.036621
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.933105,
+              304.925751,
+              6332.602539
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.873535,
+              304.884155,
+              6333.637207
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4398.782227,
+              305.59491,
+              6319.111816
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.820313,
+              305.598267,
+              6319.033203
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.69043,
+              305.528137,
+              6320.676758
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.028809,
+              305.694672,
+              6316.773438
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.813965,
+              305.770233,
+              6315.001953
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.760254,
+              305.678223,
+              6317.159668
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.046875,
+              305.700104,
+              6316.646484
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.716797,
+              305.625824,
+              6318.387695
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4403.913086,
+              305.651764,
+              6317.779785
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.981934,
+              305.495453,
+              6320.524414
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4401.75293,
+              306.581909,
+              6294.093262
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4402.8125,
+              306.513458,
+              6296.022461
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4400.368652,
+              307.411957,
+              6269.458984
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4399.835938,
+              307.366669,
+              6270.707031
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4408.255371,
+              307.387756,
+              6270.074219
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4406.547363,
+              307.379028,
+              6270.335938
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4407.34375,
+              307.339539,
+              6271.520508
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4406.59375,
+              307.452728,
+              6268.439453
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4405.007813,
+              307.556854,
+              6265.836914
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4404.299805,
+              307.423584,
+              6269.168945
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4403.024414,
+              308.835449,
+              6234.002441
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4401.01416,
+              308.763763,
+              6236.067871
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4401.502441,
+              307.802795,
+              6259.687988
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_cncblocks_long",
+              "pos": [
+              4453.268066,
+              297.787964,
+              6419.21875
+            ],
+              "ypr": [
+              109.000443,
+              -4,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_cncblocks_long",
+              "pos": [
+              4442.02002,
+              298.730438,
+              6422.688965
+            ],
+              "ypr": [
+              113.000435,
+              -4,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_bags_curve",
+              "pos": [
+              4445.369141,
+              297.570313,
+              6434.530762
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_bags_curve",
+              "pos": [
+              4453.771484,
+              297.299896,
+              6433.95752
+            ],
+              "ypr": [
+              108.000435,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_bags_long",
+              "pos": [
+              4447.290039,
+              296.761688,
+              6430.711426
+            ],
+              "ypr": [
+              -19.000006,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_bags_endl",
+              "pos": [
+              4448.259277,
+              297.564667,
+              6428.868652
+            ],
+              "ypr": [
+              -6,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_bags_endr",
+              "pos": [
+              4454.785156,
+              297.200134,
+              6430.338379
+            ],
+              "ypr": [
+              164.004639,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roadblock_cncblock",
+              "pos": [
+              4445.914063,
+              297.994476,
+              6430.231934
+            ],
+              "ypr": [
+              0,
+              -4,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Roadblock_Table",
+              "pos": [
+              4453.084961,
+              297.070618,
+              6433.183105
+            ],
+              "ypr": [
+              0,
+              -3,
+              6
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Roadblock_Table",
+              "pos": [
+              4445.784668,
+              297.851196,
+              6435.006348
+            ],
+              "ypr": [
+              127.999939,
+              2,
+              -3.000001
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack3",
+              "pos": [
+              4452.710449,
+              297.335632,
+              6439.144531
+            ],
+              "ypr": [
+              0,
+              0,
+              8.000001
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack3",
+              "pos": [
+              4450.64209,
+              297.619537,
+              6437.465332
+            ],
+              "ypr": [
+              0,
+              0,
+              6
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_pallets3",
+              "pos": [
+              4448.597168,
+              297.914001,
+              6438.756836
+            ],
+              "ypr": [
+              44.000011,
+              -6,
+              7
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_tirepile",
+              "pos": [
+              4450.254883,
+              301.279114,
+              6434.159668
+            ],
+              "ypr": [
+              0,
+              0,
+              4.999999
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_antenna",
+              "pos": [
+              4450.358887,
+              300.478912,
+              6432.907227
+            ],
+              "ypr": [
+              6,
+              -4,
+              4
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_barbedwire",
+              "pos": [
+              4448.302246,
+              298.351837,
+              6425.333496
+            ],
+              "ypr": [
+              -6,
+              2,
+              3
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_barbedwire",
+              "pos": [
+              4460.499023,
+              297.074646,
+              6428.194824
+            ],
+              "ypr": [
+              36.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_concreteblock2_damaged",
+              "pos": [
+              4462.682617,
+              296.724182,
+              6417.085938
+            ],
+              "ypr": [
+              0,
+              1,
+              5
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Wreck_Uaz",
+              "pos": [
+              4443.182129,
+              298.77475,
+              6429.073242
+            ],
+              "ypr": [
+              0,
+              -1,
+              6
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wreck_ural",
+              "pos": [
+              4436.459473,
+              299.415253,
+              6433.924805
+            ],
+              "ypr": [
+              0,
+              -4,
+              1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wreck_ural",
+              "pos": [
+              4432.217285,
+              299.934631,
+              6430.958496
+            ],
+              "ypr": [
+              0,
+              -1,
+              1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4451.391602,
+              297.578461,
+              6425.425781
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4449.333984,
+              297.802765,
+              6424.374512
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4454.415039,
+              297.083252,
+              6428.746582
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4450.402832,
+              297.710815,
+              6423.891113
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4442.256836,
+              298.390717,
+              6427.754395
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4443.910156,
+              298.268372,
+              6427.115723
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4437.353027,
+              298.628815,
+              6430.798828
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4433.212402,
+              298.946106,
+              6431.279785
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4433.703613,
+              299.069489,
+              6428.125977
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4447.479492,
+              297.913605,
+              6428.958008
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4448.814453,
+              297.806366,
+              6427.992676
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4450.109375,
+              297.460999,
+              6431.437012
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4448.183594,
+              297.683594,
+              6431.638672
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4446.172363,
+              297.72583,
+              6434.336914
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4452.77002,
+              297.028229,
+              6433.198242
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4455.089844,
+              296.78302,
+              6432.473145
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4453.133301,
+              297.204895,
+              6429.411621
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4445.637695,
+              297.615509,
+              6437.210449
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4447.013672,
+              297.651672,
+              6439.470215
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4449.513672,
+              297.365082,
+              6437.180176
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4449.690918,
+              297.315796,
+              6435.48584
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_grassdry_summer.p3d",
+              "pos": [
+              4454.066406,
+              296.750671,
+              6437.819336
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          }
+			]
+	}
