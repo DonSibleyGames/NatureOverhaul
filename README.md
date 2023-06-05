@@ -1,6 +1,6 @@
 # NatureOverhaul
-This is the Nature Overhaul PC mod but converted to Object Spawner format so it can be used with DayZ Console. It also addresses a placment issue with the P3d references. It is above 99% the same as the PC mod.
-
+This is the Nature Overhaul PC mod but converted to Object Spawner format so it can be used with DayZ Console. It also addresses a placment issue with the P3d references. It is above 99% the same as the PC mod./
+/
 There are currently 4 versions of Nature overhaul.
 2 lite versions and 2 full versions. 
 
