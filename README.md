@@ -3,6 +3,13 @@ This is the Nature Overhaul PC mod but converted to Object Spawner format so it 
 
 There are currently 4 versions of Nature overhaul.
 2 lite versions and 2 full versions. 
+
+
 Each type has a version with offsets and one with no offsets. 
 The versions with offsets fix a height issue with trees. 
+*NatureOverhaulConsoleDayZ (with offsets)
+*FullVersion_NoOffsets
+
 The versions with no offsets dont have that fix applied. this is incase the game fixes it in future
+*LiteNoOffsets
+*LiteWithOffSets
