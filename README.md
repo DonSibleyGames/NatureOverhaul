@@ -16,6 +16,14 @@ The versions with no offsets dont have that fix applied. this is incase the game
 * FullVersion_NoOffsets
 
 
+# objectspawnerarr
+
+Inside your cfggameplay.json file:
+
+You can use this line to replace the existing "objectspawnerarr" line:
+
+		"objectSpawnersArr": ["custom/Balota_circel.json","custom/Balota_city.json","custom/Bor.json","custom/Dolina.json","custom/DolinaSmallStreet.json","custom/Gorka.json","custom/Kamyshovo.json","custom/Khelm.json","custom/Komarovo.json","custom/Mogilevka.json","custom/Msta.json","custom/NadezhdinoandSmallCityRoad.json","custom/Novy_Sober.json","custom/Pavlovo.json","custom/Pogorevka.json","custom/Polana.json","custom/Pulkovo.json","custom/PustaandCircelChernos2.json","custom/Rogovo.json","custom/SmallCityNorthToBalota.json","custom/Solnichniy.json","custom/TrainStationChernogorsk.json","custom/Tulga.json","custom/Msta.json","custom/Vavilovo.json","custom/WindPowers.json"],
+
 # Donations
 I've been asked by a few people how to donate to me.
 
